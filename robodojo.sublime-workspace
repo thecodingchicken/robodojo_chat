@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"Exception"
+			],
+			[
+				"userid",
+				"userid"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"SAP",
+				"SAPI"
+			],
+			[
+				"win32",
+				"win32com"
+			],
+			[
+				"Impor",
+				"ImportError"
+			],
+			[
+				"arg",
+				"arg"
+			],
+			[
+				"h_dir",
+				"H_DIR"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"command",
+				"command"
+			],
+			[
+				"error",
+				"error"
+			],
+			[
+				"ran",
+				"random_name"
+			],
+			[
+				"functio",
+				"functional"
+			],
+			[
+				"direc",
+				"directory"
+			],
+			[
+				"File",
+				"FileNotFoundError"
+			],
+			[
+				"A",
+				"AC"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"mar",
+				"marginheight\tAttr"
+			],
+			[
+				"marg",
+				"marginwidth\tAttr"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"y",
+				"y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PythonChatServer.py",
+			"settings":
+			{
+				"buffer_size": 11253,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PythonChatClient.py",
+			"settings":
+			{
+				"buffer_size": 3031,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PROTOCOL.md",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PythonChatSatt.py",
+			"settings":
+			{
+				"buffer_size": 7543,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pychatfuncs.py",
+			"settings":
+			{
+				"buffer_size": 547,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "users",
+			"settings":
+			{
+				"buffer_size": 16,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 412.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sound/Desktop/robodojo_chat/PythonChatServer.py",
+		"/C/Users/Sound/Desktop/robodojo_chat/robodojo.sublime-workspace",
+		"/C/Users/Joshua/eclipse-workspace/Listeners/src/config.yml",
+		"/C/Users/Joshua/Desktop/journal_prompts_12_11",
+		"/C/Users/Joshua/Desktop/server_1.12.2/plugins/GroupManager/config.yml",
+		"/C/Users/Joshua/Desktop/server_1.12.2/plugins/GroupManager/worlds/world/users.yml",
+		"/C/Users/Joshua/Desktop/server_1.12.2/plugins/GroupManager/worlds/world/groups.yml",
+		"/C/Users/Joshua/Documents/Processing/haiti_flag/stuff.html",
+		"/C/Users/Joshua/Desktop/server_1.12.2/spigot.yml",
+		"/C/Users/Joshua/xampp/htdocs/404.html",
+		"/C/Users/Joshua/Desktop/server_1.12.2/help.yml",
+		"/C/Users/Joshua/Desktop/server_1.12.2/ops.json",
+		"/C/Users/Joshua/Desktop/server_1.12.2/bukkit.yml",
+		"/C/Users/Joshua/Desktop/server_1.12.2/commands.yml",
+		"/C/Users/Joshua/Desktop/server_1.12.2/world/stats/59de8234-d1f2-398a-be09-aa6c5e9dddbb.json",
+		"/C/Users/Joshua/Desktop/server_1.12.2/permissions.yml",
+		"/C/Users/Joshua/Desktop/server_1.12.2/world/stats/6689fb85-c73c-4df2-bbc0-0f4fff42924d.json",
+		"/C/Users/Joshua/Desktop/server_1.12.2/world/advancements/59de8234-d1f2-398a-be09-aa6c5e9dddbb.json",
+		"/C/Users/Joshua/Downloads/plugins/plugins/Essentials/userdata/59de8234-d1f2-398a-be09-aa6c5e9dddbb.yml",
+		"/C/Users/Joshua/Downloads/plugins/plugins/Essentials/userdata/6689fb85-c73c-4df2-bbc0-0f4fff42924d.yml",
+		"/C/Users/Joshua/Downloads/plugins/plugins/NoCheatPlus/config.yml",
+		"/C/Users/Joshua/Downloads/plugins/plugins/PAC/config.yml",
+		"/C/Users/Joshua/Downloads/plugins/plugins/FoundBoxx/config.yml",
+		"/C/Users/Joshua/xampp/apache/logs/error.log",
+		"/C/Users/Joshua/Desktop/minecraft_video_plan",
+		"/C/Users/Joshua/Desktop/server_1.12.2/plugins/Essentials/config.yml",
+		"/C/Users/Joshua/xampp/apache/logs/access.log",
+		"/C/Users/Joshua/Python/files/Python_Chat/logs/2018_Apr-26",
+		"/F/nir/videos.bat",
+		"/C/Users/Joshua/Python/files/Python_Chat/PythonChatClient.py",
+		"/C/Users/Joshua/Python/files/zipbrowser/zipbrowser2.py",
+		"/C/Users/Joshua/Python/files/Python_Chat/PythonChatServer.py",
+		"/C/Users/Joshua/Python/Beginning Python/Chapter 16/Python_Chat/PythonChatServer.py",
+		"/C/Users/Joshua/Downloads/hmcraft/spigot.yml",
+		"/C/Users/Joshua/Desktop/play_4-13/writing",
+		"/C/Users/Joshua/Desktop/school/co_op/debate1",
+		"/C/Users/Joshua/Desktop/school/co_op/debate1_writing",
+		"/C/Users/Joshua/Desktop/Videos/Desktop/LightPC Resources/simulator.cpp",
+		"/C/Users/Joshua/Downloads/hmcraft/run.bat",
+		"/C/Users/Joshua/Downloads/hmcraft/permissions.yml",
+		"/C/Users/Joshua/Downloads/hmcraft/start.bat",
+		"/C/Users/Joshua/Downloads/hmcraft/server.properties",
+		"/C/Users/Joshua/Desktop/unused_stuff/test.html",
+		"/F/bal/css-auth/dvdinfo.c",
+		"/F/bal/css-auth/css-auth.c",
+		"/G/games/AppData/Roaming/.minecraft/config/XRay.json",
+		"/C/Users/Joshua/Desktop/school/History/Exploring_World_History/Unit26/prompt",
+		"/C/Users/Joshua/Desktop/school/History/Exploring_World_History/Unit26/unit26",
+		"/C/Users/Joshua/Desktop/school/History/Exploring_World_History/Unit23/writing",
+		"/C/Users/Joshua/Downloads/mmc-stable-win32/MultiMC/instances/april_fools/instance.cfg",
+		"/C/Users/Joshua/Desktop/commands/clear.c",
+		"/C/Users/Joshua/Downloads/Craft/Craft/src/main.c",
+		"/C/Users/Joshua/Downloads/Craft/Craft/README.md",
+		"/C/Users/Joshua/AppData/Local/Temp/7zO0529A016/mcmod.info",
+		"/C/Users/Joshua/Python/files/code.json",
+		"/F/Windows/Logs/CBS/CBS.log",
+		"/C/Users/Joshua/Desktop/spigot/plugins/Essentials/config.yml",
+		"/C/Users/Joshua/Desktop/creative_writing_mar_12_to_16_2018/prompt",
+		"/C/Users/Joshua/AppData/Roaming/.minecraft/versions/1.12.1-XRay/1.12.1-XRay.json",
+		"/C/Users/Joshua/Desktop/spigot/plugins/SilkSpawners/mobs.yml",
+		"/C/Users/Joshua/Desktop/spigot/plugins/bStats/config.yml",
+		"/C/Users/Joshua/Desktop/spigot/plugins/MythicMobs/config.yml",
+		"/C/Users/Joshua/Desktop/spigot/plugins/SilkSpawners/config.yml",
+		"/C/Users/Joshua/Desktop/spigot/plugins/MythicMobs/Mobs/ExampleMobs.yml",
+		"/C/Users/Joshua/Desktop/spigot/plugins/MythicMobs/Mobs/VanillaMobs.yml",
+		"/C/Users/Joshua/Desktop/spigot/plugins/Essentials/info.txt",
+		"/C/Users/Joshua/Downloads/mmc-stable-win32/MultiMC/instances/1.12.2/instance.cfg",
+		"/C/Users/Joshua/AppData/Local/Temp/7zO4E0A74D6/alp_main.txt",
+		"/C/Users/Joshua/Downloads/mmc-stable-win32/MultiMC/instances/1.11.2/instance.cfg",
+		"/C/Users/Joshua/Python/files/github/MCEdit-Unified/pkgutil.py",
+		"/C/Users/Joshua/Python/files/github/MCEdit-Unified/mcedit.py",
+		"/C/Users/Joshua/.pylint.d/fbrowser_21.stats",
+		"/C/Users/Joshua/.cache/youtube-dl/youtube-sigfuncs/js_vfl2iVoNh_46.40.json",
+		"/F/Users/Dexter/Documents/Passwords Database/desktop.ini",
+		"/F/Users/Dexter/Desktop/Melinda Liberty Folder/MyPay_aspx_files/BasePage.css",
+		"/C/Users/Joshua/Desktop/spigot/server.properties",
+		"/C/Users/Joshua/Desktop/spigot/start.sh",
+		"/C/Users/Joshua/Desktop/school/co_op/romeo_juliet/plan",
+		"/C/Users/Joshua/Desktop/creative_writing_mar_12_to_16_2018/writing",
+		"/C/Users/Joshua/Desktop/joe_404/404.html",
+		"/C/Users/Joshua/xampp/htdocs/405.html",
+		"/C/Users/Joshua/Desktop/ts3.html",
+		"/C/Users/Joshua/Downloads/github/aristeia/README.md",
+		"/C/Users/Joshua/Python/files/generate_video_code_html.py",
+		"/C/Users/Joshua/MetaSploit/metasploit-framework/embedded/framework/README.md",
+		"/F/ResSys.ini",
+		"/C/Users/Joshua/Desktop/github/Wurst-MC-1.12/shared-src/net/wurstclient/keybinds/KeybindList.java",
+		"/F/Immediate Music epic/do.py",
+		"/C/Users/Joshua/Desktop/commands/ripsound.bat",
+		"/C/Users/Joshua/Desktop/commands/lower_quality.bat",
+		"/C/Users/Joshua/Desktop/commands/extract_audio.bat",
+		"/C/Users/Joshua/Desktop/commands/audio_lower_quality.bat",
+		"/C/Users/Joshua/Desktop/github/Wurst-MC-1.12/shared-src/net/wurstclient/events/DeathListener.java",
+		"/C/Users/Joshua/Desktop/backup_hdd_3.py",
+		"/C/Users/Joshua/xampp/htdocs/thecodingchicken/license.html",
+		"/C/Users/Joshua/xampp/htdocs/thecodingchicken/downloads.html",
+		"/C/Users/Joshua/AppData/Local/Temp/7zO87F0B21F/content.opf",
+		"/C/Users/Joshua/AppData/Local/Temp/7zO87FBB56F/0.css",
+		"/C/Users/Joshua/AppData/Local/Temp/7zO87FEA2BE/mimetype",
+		"/F/fill.py",
+		"/C/Users/Joshua/Desktop/get_videos.py",
+		"/C/Users/Joshua/Desktop/school/Science/ee_Quarter3",
+		"/C/Users/Joshua/xampp/htdocs/peter/go.bat",
+		"/C/Users/Joshua/xampp/htdocs/peter/ripsound.bat",
+		"/C/Users/Joshua/AppData/Local/Temp/7zO86B91AC7/rm.py",
+		"/C/Users/Joshua/AppData/Local/Temp/7zO86BD3954/all_detailed.txt",
+		"/C/Users/Joshua/AppData/Local/Temp/7zO047DA5B0/.profile",
+		"/C/Users/Joshua/Desktop/spigot1.8/server.properties",
+		"/C/Users/Joshua/Desktop/school/bio_for_Prodigal2018",
+		"/C/Users/Joshua/Python/files/github/openshot-qt/.gitignore",
+		"/C/Users/Joshua/Desktop/school/History/Exploring_World_History/Unit24/writing",
+		"/C/Users/Joshua/Desktop/school/History/Exploring_World_History/Unit24/prompt",
+		"/C/Users/Joshua/atari_g/Infogrames/Bird Hunter 2003 Demo/Scripts/Joshua/PersistentSymbols.ini",
+		"/C/Users/Joshua/Desktop/school/writings done/creative_writing_mar_5_to_9/writing",
+		"/C/Users/Joshua/Desktop/school/2_Thessalonians",
+		"/C/Users/Joshua/ytd",
+		"/C/Users/Joshua/Desktop/unused_stuff/Prodigal_Princess_Intermission_Song",
+		"/C/Users/Joshua/Python/files/robodojo/study_guide.txt",
+		"/C/Users/Joshua/Desktop/Creative_writing-12-11-17/writing",
+		"/C/Users/Joshua/Desktop/mncraft_server3/server.properties",
+		"/C/Users/Joshua/Python/files/text_file_browser/find_file_path.py",
+		"/C/Users/Joshua/Python/files/text_file_browser/other_functions.py",
+		"/C/Users/Joshua/Desktop/screenshot_1_30.docx",
+		"/C/Users/Joshua/Desktop/sites_to_go_to",
+		"/C/Users/Joshua/Desktop/mncraft_server2",
+		"/C/Users/Joshua/Desktop/screenlock",
+		"/C/Users/Joshua/Desktop/school/james_summery",
+		"/C/Users/Joshua/Desktop/spigot/Learn to Program with Minecraft Code/chapter11-files/load_save.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"write_p",
+			"\t",
+			"star",
+			" ",
+			"&",
+			"Without You",
+			"ABBA",
+			"Who I am",
+			"Ashland",
+			".mp4",
+			"􀀁",
+			"find_file_path",
+			"-o",
+			"jesus",
+			"WILLIAM",
+			"BOWE",
+			"ctypes",
+			"execute",
+			"cd_home",
+			"SoundWriter",
+			"Order",
+			"zombie",
+			"14",
+			",",
+			"print_val",
+			"command_cd",
+			"Failed to read DnsConfig",
+			"Failed to read",
+			"command_cd_home",
+			"command_cd",
+			"H_DIR",
+			"command_rm",
+			"H_DIR",
+			"random_name['conf']",
+			"import time",
+			"command[3:].strip()",
+			"random_name",
+			"HMDIR",
+			" = ",
+			"':''}",
+			" = ",
+			"dir_to_del",
+			"tar",
+			"MAX_CNT",
+			"max_cnt",
+			"=",
+			" '",
+			"foo",
+			"h_dir",
+			"prmtusrnme",
+			"zipbrowser",
+			"drives",
+			"cmd_list",
+			"IFACES",
+			"L",
+			"print",
+			"?",
+			"neighbour",
+			"favourite",
+			"Cathy",
+			"main",
+			"Displacement",
+			"•",
+			"Jesus",
+			"main",
+			"38"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pychatfuncs.write_p",
+			"   ",
+			"_",
+			"",
+			"h_dir",
+			"conf",
+			"path",
+			"path_",
+			"path",
+			"command",
+			"info",
+			"error",
+			"hmdir_file",
+			"hm_dir",
+			"random_name",
+			"max_cnt",
+			"MAX_CNT",
+			"spam",
+			"H_DIR",
+			"DRIVES",
+			"CMD_LIST",
+			"neighbor",
+			"favorite",
+			"Kathy",
+			"",
+			"<strong>Jesus</strong>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PythonChatServer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 119.0,
+						"translation.y": 326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PythonChatClient.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "PROTOCOL.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1186,
+								1186
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "PythonChatSatt.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4084,
+								4084
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1908.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pychatfuncs.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "users",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								7
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "robodojo.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 170.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
